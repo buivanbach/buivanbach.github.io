@@ -490,6 +490,7 @@ body {
 
 .contact-card {
   background-color: var(--midnight-blue);
+  background-image: url("../images/portfolio-1.jpg");
   padding: 50px 25px;
   border-radius: var(--radius-20);
 }
